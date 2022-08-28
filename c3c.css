@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(246, 225, 255);
+}
+.titulo {
+    color: rgb(173, 86, 255);
+    background-color: black;
+    padding: 1px;
+    text-align: center;
+    font-size: 25px;
+    width: 450px;
+    margin: 15px;
+}
+label {
+    margin: 0 45px;
+}
+
+input {
+    margin-top: 15px;
+    width: 50px;
+    text-align: center;
+}
+.tipotriangulo {
+    margin-left: 9px;
+    width: 200px;
+    text-align: center;
+    border: black solid 1px;
+    padding: 3px;
+}
+#enviar {
+    margin: 0 20px;
+    width: 80px;
+}
+#notaFinal {
+    border: black solid 1px;
+    text-align: center;
+    text-decoration: solid;
+}
+#situacao {
+    border: black solid 1px;
+    width: 200px;
+    text-align: center;
+}
+#arrayValues {
+    border: black solid 1px;
+    width: 300px;
+}
+textarea {
+    margin-top: 15px;
+}
+.saida {
+    margin-bottom: 150px;
+}
+.equacao input {
+    width: 20px;
+}
+.valores {
+    margin-right: 5px;
+}
+#resultX {
+    border: black solid 1px;
+    width: 280px;
+    text-align: center;
+
+}
